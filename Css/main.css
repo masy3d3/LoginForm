@@ -112,6 +112,7 @@ body {
 }
 
 .form-wrap {
+  overflow: hidden;
   width: 730px;
   height: 460px;
   display: none;
